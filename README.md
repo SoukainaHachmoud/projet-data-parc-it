@@ -31,7 +31,7 @@ Python · Pandas · NumPy · SQLite · Streamlit
 
 ## Lancer le projet
 ```bash
-pip install -r requirements.txt
+pip install -r pandas streamlit numpy
 python generate_data.py     # crée data/raw/equipements.csv et tickets.csv
 python etl.py               # nettoie et crée data/parc_it.db
 streamlit run app.py        # ouvre le dashboard
