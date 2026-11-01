@@ -1,0 +1,309 @@
+equipement_id,type,marque,service,date_achat
+EQ0001,Routeur,Cisco,Qualité,2023-03-26
+EQ0002,PC,Dell,Comptabilité,2024-08-11
+EQ0003,Téléphone IP,Yealink,Qualité,2024-04-10
+EQ0004,Switch,TP-Link,Commercial,2019-02-22
+EQ0005,PC,HP,Logistique,2025-01-04
+EQ0006,Téléphone IP,Grandstream,Qualité,2022-07-20
+EQ0007,Routeur,Cisco,Production,2020-09-28
+EQ0008,Routeur,Cisco,,2022-05-14
+EQ0009,PC,HP,Ressources Humaines,2026-03-17
+EQ0010,Imprimante,HP,Qualité,2025-04-12
+EQ0011, PC ,Lenovo,Production,2025-01-28
+EQ0012,Téléphone IP,Yealink,Commercial,2021-12-05
+EQ0013,Imprimante,Canon,Comptabilité,2024-08-27
+EQ0014,Téléphone IP,Grandstream,Commercial,2021-04-08
+EQ0015,PC,HP,Direction,2023-10-29
+EQ0016,PC,HP,Direction,2023-06-06
+EQ0017,Imprimante,Canon,Production,2020-02-14
+EQ0018,PC,Lenovo,Logistique,2020-04-06
+EQ0019,Téléphone IP,Yealink,Commercial,2018-07-09
+EQ0020,Imprimante,Canon,Comptabilité,2019-03-10
+EQ0021,Routeur,MikroTik,Logistique,2021-09-06
+EQ0022,PC,HP,Production,2022-01-21
+EQ0023,Téléphone IP,Cisco,Qualité,2019-05-27
+EQ0024,Téléphone IP,Yealink,Logistique,2021-07-16
+EQ0025,Routeur,Cisco,Comptabilité,2023-02-16
+EQ0026,PC,Lenovo,Qualité,2019-12-22
+EQ0027,Imprimante,Canon,Direction,2020-11-14
+EQ0028,PC,Dell,Qualité,2021-02-13
+EQ0029,PC,HP,Secrétariat,2022-04-15
+EQ0030,Switch,TP-Link,Ressources Humaines,2021-02-09
+EQ0031,Switch,TP-Link,Commercial,2024-04-03
+EQ0032,Téléphone IP,Grandstream,Logistique,2020-10-12
+EQ0033,PC,Dell,Qualité,2021-09-07
+EQ0034,PC,HP,Logistique,2021-03-22
+EQ0035,Imprimante,Canon,Logistique,2019-07-22
+EQ0036,PC,Lenovo,Ressources Humaines,2023-10-27
+EQ0037,PC,Dell,Direction,2019-12-31
+EQ0038,Imprimante,HP,Direction,2020-07-09
+EQ0039, PC ,HP,Ressources Humaines,2024-09-23
+EQ0040,Switch,TP-Link,Direction,2026-01-20
+EQ0041,PC,Lenovo,Production,2023-09-11
+EQ0042,Téléphone IP,Cisco,Commercial,2025-10-11
+EQ0043,Switch,TP-Link,Qualité,2025-04-01
+EQ0044,PC,HP,Comptabilité,2022-01-30
+EQ0045,Téléphone IP,Yealink,Qualité,2024-07-15
+EQ0046,Téléphone IP,Yealink,Qualité,2020-10-14
+EQ0047, PC ,Lenovo,Commercial,2021-11-28
+EQ0048,PC,Dell,Comptabilité,2022-07-18
+EQ0049,Switch,TP-Link,Ressources Humaines,2026-02-25
+EQ0050,PC,Dell,Qualité,2025-03-15
+EQ0051,PC,Dell,Secrétariat,2022-02-25
+EQ0052,PC,Dell,Comptabilité,2023-07-17
+EQ0053,Routeur,MikroTik,Direction,2019-09-20
+EQ0054,Switch,Cisco,Commercial,2024-10-29
+EQ0055,Switch,TP-Link,Logistique,2022-09-11
+EQ0056,Routeur,MikroTik,Direction,2022-07-10
+EQ0057,Imprimante,Canon,Secrétariat,2024-07-03
+EQ0058,Imprimante,Canon,Production,2023-05-17
+EQ0059,PC,Lenovo,Production,2018-08-13
+EQ0060,PC,HP,Commercial,2020-06-12
+EQ0061,Switch,Cisco,Ressources Humaines,2019-07-02
+EQ0062,Imprimante,Canon,Qualité,2024-03-28
+EQ0063,Imprimante,Epson,Comptabilité,2018-04-19
+EQ0064,Routeur,Cisco,Commercial,2019-09-20
+EQ0065,Imprimante,Epson,Secrétariat,2023-01-27
+EQ0066,Imprimante,Canon,Direction,2023-11-24
+EQ0067,Imprimante,Canon,Direction,2022-04-10
+EQ0068,PC,Dell,Ressources Humaines,2025-04-22
+EQ0069,PC,Lenovo,Qualité,2025-10-19
+EQ0070,PC,Dell,Direction,2019-02-14
+EQ0071,PC,Dell,Ressources Humaines,2026-01-31
+EQ0072,PC,HP,Direction,2023-03-20
+EQ0073,Téléphone IP,Cisco,Qualité,2023-05-27
+EQ0074,pc,HP,Logistique,2018-10-22
+EQ0075,PC,Dell,Commercial,2023-04-12
+EQ0076,PC,Dell,Logistique,2024-02-28
+EQ0077,PC,Dell,Logistique,2022-12-06
+EQ0078,Switch,TP-Link,Commercial,2018-09-19
+EQ0079,Imprimante,Canon,Direction,2022-06-11
+EQ0080,Routeur,MikroTik,Commercial,2025-12-11
+EQ0081,Switch,TP-Link,Logistique,2024-02-21
+EQ0082,PC,Lenovo,Logistique,2019-03-02
+EQ0083,Téléphone IP,Cisco,Comptabilité,2026-02-23
+EQ0084,PC,HP,Commercial,2026-02-20
+EQ0085,PC,HP,,2019-06-10
+EQ0086,PC,HP,Direction,2024-10-18
+EQ0087,Switch,TP-Link,Qualité,2021-06-14
+EQ0088,Imprimante,HP,Secrétariat,2023-01-15
+EQ0089,PC,Dell,Direction,2021-10-12
+EQ0090,Imprimante,Epson,Production,2024-08-23
+EQ0091,PC,HP,Secrétariat,2026-06-17
+EQ0092,Switch,TP-Link,,2024-09-30
+EQ0093,PC,Dell,Comptabilité,2025-11-27
+EQ0094,PC,HP,Direction,2026-01-11
+EQ0095,PC,HP,Qualité,2018-10-07
+EQ0096,Imprimante,Canon,Production,2020-02-25
+EQ0097,PC,HP,Ressources Humaines,2024-02-16
+EQ0098,PC,HP,Logistique,2023-01-04
+EQ0099,PC,Lenovo,Production,2018-06-05
+EQ0100,Téléphone IP,Cisco,Direction,2018-10-22
+EQ0101,Téléphone IP,Grandstream,Commercial,2022-06-02
+EQ0102,Switch,TP-Link,Comptabilité,2023-03-26
+EQ0103,PC,HP,Logistique,2019-06-04
+EQ0104,Téléphone IP,Grandstream,Qualité,2019-06-16
+EQ0105,Routeur,Cisco,Production,2019-02-05
+EQ0106,Switch,TP-Link,Logistique,2022-10-18
+EQ0107,PC,Lenovo,Ressources Humaines,2018-01-25
+EQ0108,PC,HP,Secrétariat,2022-11-10
+EQ0109,PC,Lenovo,Comptabilité,2022-01-15
+EQ0110,Téléphone IP,Cisco,Commercial,2021-12-15
+EQ0111,Imprimante,HP,Production,2023-10-07
+EQ0112,PC,Lenovo,Ressources Humaines,2022-06-09
+EQ0113,PC,Dell,Commercial,2024-03-06
+EQ0114,Imprimante,HP,Commercial,2024-06-26
+EQ0115,PC,HP,,2025-10-23
+EQ0116,Téléphone IP,Grandstream,Ressources Humaines,2024-10-13
+EQ0117,Routeur,Cisco,Logistique,2022-05-24
+EQ0118,Switch,Cisco,Production,2022-03-06
+EQ0119,PC,Dell,Comptabilité,2020-01-01
+EQ0120,Imprimante,HP,Comptabilité,2023-02-02
+EQ0121,Imprimante,HP,Direction,2019-03-08
+EQ0122,Imprimante,HP,Ressources Humaines,2025-11-26
+EQ0123,PC,Lenovo,Production,2025-03-04
+EQ0124,PC,Lenovo,Qualité,2019-01-07
+EQ0125,PC,Lenovo,Commercial,2024-09-02
+EQ0126,Imprimante,HP,Secrétariat,2018-12-30
+EQ0127,PC,Dell,Logistique,2024-02-14
+EQ0128,PC,Dell,Direction,2018-09-29
+EQ0129,PC,HP,Logistique,2022-02-22
+EQ0130,Imprimante,Canon,Ressources Humaines,2023-08-02
+EQ0131,PC,HP,Comptabilité,2024-03-09
+EQ0132,Téléphone IP,Yealink,Logistique,2021-07-21
+EQ0133,Imprimante,Epson,Comptabilité,2025-10-28
+EQ0134,PC,Dell,,2024-07-28
+EQ0135,Imprimante,HP,Production,2019-10-08
+EQ0136,PC,Lenovo,Qualité,2023-09-12
+EQ0137,Téléphone IP,Grandstream,Logistique,2024-03-14
+EQ0138,Imprimante,HP,Ressources Humaines,2020-10-31
+EQ0139,Routeur,Cisco,Commercial,2024-04-07
+EQ0140,PC,Lenovo,Comptabilité,2025-08-16
+EQ0141,Imprimante,Epson,Production,2024-12-08
+EQ0142,Imprimante,Epson,Secrétariat,2024-06-21
+EQ0143,Téléphone IP,Cisco,,2023-05-21
+EQ0144,imprimante,Canon,Production,2020-04-18
+EQ0145,Imprimante,Epson,Secrétariat,2024-10-01
+EQ0146,PC,Dell,Qualité,2021-02-02
+EQ0147, PC ,Dell,Commercial,2022-07-08
+EQ0148,Imprimante,Canon,Logistique,2020-09-01
+EQ0149,PC,Lenovo,Logistique,2020-08-28
+EQ0150,PC,Dell,Production,2019-05-04
+EQ0151,Téléphone IP,Cisco,Direction,2026-02-28
+EQ0152,Téléphone IP,Cisco,Comptabilité,2019-04-04
+EQ0153,PC,HP,Comptabilité,2018-09-25
+EQ0154,Imprimante,Epson,Qualité,2025-12-11
+EQ0155,PC,Dell,Secrétariat,2022-09-17
+EQ0156,Switch,TP-Link,Comptabilité,2021-09-19
+EQ0157,PC,HP,Ressources Humaines,2024-04-05
+EQ0158,SWITCH,TP-Link,Secrétariat,2021-04-03
+EQ0159,Switch,Cisco,Direction,2019-02-01
+EQ0160,Routeur,Cisco,Ressources Humaines,2024-03-12
+EQ0161,PC,Lenovo,Direction,2019-06-30
+EQ0162,Téléphone IP,Grandstream,Direction,2022-09-11
+EQ0163,PC,Dell,Ressources Humaines,2026-01-21
+EQ0164,PC,Lenovo,Secrétariat,2025-12-12
+EQ0165,Imprimante,Epson,Production,2021-01-23
+EQ0166,PC,HP,Direction,2024-08-15
+EQ0167,Téléphone IP,Grandstream,Ressources Humaines,2023-03-15
+EQ0168,Téléphone IP,Cisco,Comptabilité,2022-01-26
+EQ0169,PC,HP,Qualité,2019-03-10
+EQ0170,Téléphone IP,Yealink,Logistique,2021-03-12
+EQ0171,PC,Lenovo,Qualité,2023-07-14
+EQ0172,Imprimante,HP,Ressources Humaines,2026-05-17
+EQ0173,PC,Lenovo,,2018-01-16
+EQ0174,Téléphone IP,Cisco,Comptabilité,2024-02-04
+EQ0175,PC,HP,,2025-03-08
+EQ0176,PC,Dell,Qualité,2026-01-27
+EQ0177,PC,Lenovo,Qualité,2021-08-06
+EQ0178,TÉLÉPHONE IP,Yealink,Commercial,2019-01-03
+EQ0179,Téléphone IP,Cisco,Production,2020-04-19
+EQ0180,Switch,TP-Link,Production,2025-03-21
+EQ0181,Téléphone IP,Grandstream,Qualité,2025-06-14
+EQ0182,Téléphone IP,Grandstream,Ressources Humaines,2023-05-29
+EQ0183,Imprimante,Epson,Ressources Humaines,2019-01-16
+EQ0184,PC,HP,Qualité,2019-01-13
+EQ0185,Routeur,Cisco,Comptabilité,2022-01-22
+EQ0186,Switch,TP-Link,Secrétariat,2022-12-29
+EQ0187,PC,Lenovo,Production,2018-04-11
+EQ0188,PC,Lenovo,Ressources Humaines,2023-10-28
+EQ0189,Switch,TP-Link,Qualité,2022-08-15
+EQ0190,PC,Dell,Qualité,2018-02-08
+EQ0191,Téléphone IP,Cisco,Ressources Humaines,2018-10-24
+EQ0192,PC,HP,Production,2021-11-09
+EQ0193,PC,Lenovo,Qualité,2024-02-19
+EQ0194,Téléphone IP,Cisco,Logistique,2025-01-02
+EQ0195,PC,Dell,Secrétariat,2021-08-30
+EQ0196,PC,Dell,Production,2020-07-04
+EQ0197,Imprimante,Epson,Production,2026-03-21
+EQ0198,Téléphone IP,Grandstream,Logistique,2021-11-22
+EQ0199,PC,Dell,Direction,2020-09-04
+EQ0200,PC,HP,Ressources Humaines,2021-10-03
+EQ0201,Routeur,Cisco,Commercial,2018-02-07
+EQ0202,Téléphone IP,Cisco,Secrétariat,2020-07-24
+EQ0203,Imprimante,Epson,Ressources Humaines,2022-05-18
+EQ0204,PC,Dell,Ressources Humaines,2025-10-18
+EQ0205,PC,Dell,Secrétariat,2024-04-07
+EQ0206,PC,Dell,Secrétariat,2024-08-19
+EQ0207,PC,Dell,Ressources Humaines,2022-08-17
+EQ0208,Switch,TP-Link,Commercial,2018-12-09
+EQ0209,PC,Lenovo,Direction,2021-04-26
+EQ0210,Imprimante,HP,Ressources Humaines,2026-06-18
+EQ0211,Switch,TP-Link,Direction,2018-05-17
+EQ0212,Imprimante,HP,Production,2025-06-18
+EQ0213,PC,Dell,Ressources Humaines,2023-10-23
+EQ0214,Téléphone IP,Yealink,Commercial,2020-05-30
+EQ0215,Switch,Cisco,,2024-08-08
+EQ0216,SWITCH,Cisco,Commercial,2025-02-07
+EQ0217,PC,Lenovo,Logistique,2018-05-14
+EQ0218,PC,HP,Comptabilité,2018-11-26
+EQ0219,Téléphone IP,Grandstream,Commercial,2023-08-26
+EQ0220,PC,HP,Comptabilité,2026-06-25
+EQ0221,PC,Dell,Qualité,2018-03-16
+EQ0222,Imprimante,HP,Qualité,2023-08-26
+EQ0223,Switch,Cisco,Production,2019-02-28
+EQ0224,Téléphone IP,Yealink,Logistique,2023-07-09
+EQ0225,PC,Lenovo,Ressources Humaines,2023-04-17
+EQ0226,Téléphone IP,Grandstream,Commercial,2018-10-08
+EQ0227,PC,Lenovo,Logistique,2023-10-12
+EQ0228,Imprimante,Canon,Qualité,2025-08-12
+EQ0229,Imprimante,Canon,Ressources Humaines,2025-04-30
+EQ0230,PC,HP,Commercial,2018-03-31
+EQ0231,PC,HP,Comptabilité,2020-02-02
+EQ0232,PC,Lenovo,Secrétariat,2020-01-17
+EQ0233,Téléphone IP,Grandstream,Secrétariat,2021-11-06
+EQ0234,Imprimante,Epson,Production,2019-03-20
+EQ0235,Téléphone IP,Cisco,Ressources Humaines,2025-04-02
+EQ0236,Téléphone IP,Yealink,Direction,2024-08-04
+EQ0237,Imprimante,Epson,Comptabilité,2024-11-10
+EQ0238,Routeur,Cisco,Logistique,2019-09-07
+EQ0239,PC,Lenovo,Ressources Humaines,2018-02-15
+EQ0240,PC,HP,Qualité,2025-09-23
+EQ0241,Téléphone IP,Grandstream,Commercial,2020-06-14
+EQ0242,Routeur,Cisco,Production,2023-07-28
+EQ0243,PC,Lenovo,,2025-09-20
+EQ0244, Imprimante ,Epson,Comptabilité,2018-04-23
+EQ0245,Imprimante,HP,Secrétariat,2018-01-17
+EQ0246,Téléphone IP,Cisco,Direction,2018-01-17
+EQ0247,Imprimante,Canon,Qualité,2019-04-30
+EQ0248,PC,Lenovo,Qualité,2018-06-10
+EQ0249,PC,Lenovo,Logistique,2024-12-16
+EQ0250,PC,Lenovo,Direction,2023-02-22
+EQ0251,Switch,Cisco,Ressources Humaines,2026-04-27
+EQ0252,Téléphone IP,Cisco,Direction,2024-10-20
+EQ0253,Imprimante,Canon,Direction,2026-03-05
+EQ0254,PC,Lenovo,Secrétariat,2020-01-10
+EQ0255,PC,Dell,Production,2020-06-11
+EQ0256,Switch,TP-Link,Direction,2025-03-18
+EQ0257,Téléphone IP,Yealink,Qualité,2020-01-30
+EQ0258,PC,Lenovo,Comptabilité,2018-06-27
+EQ0259,PC,HP,Ressources Humaines,2023-09-06
+EQ0260,Imprimante,Canon,Production,2024-10-18
+EQ0261,PC,HP,Commercial,2026-03-21
+EQ0262,Téléphone IP,Cisco,Ressources Humaines,2025-11-16
+EQ0263,PC,Lenovo,Direction,2019-01-08
+EQ0264,PC,HP,Direction,2024-07-21
+EQ0265,Téléphone IP,Cisco,Commercial,2025-03-07
+EQ0266,PC,Dell,Direction,2023-12-05
+EQ0267,PC,Dell,Logistique,2024-12-16
+EQ0268,PC,HP,Comptabilité,2025-02-10
+EQ0269,PC,Lenovo,Commercial,2021-10-16
+EQ0270,PC,Lenovo,Direction,2018-05-05
+EQ0271,PC,HP,Qualité,2021-11-15
+EQ0272,PC,HP,Logistique,2019-09-18
+EQ0273,PC,HP,Comptabilité,2018-12-19
+EQ0274,Imprimante,HP,,2019-01-23
+EQ0275,Switch,Cisco,Qualité,2023-12-02
+EQ0276,PC,HP,Ressources Humaines,2022-04-14
+EQ0277,PC,Dell,Comptabilité,2022-08-01
+EQ0278,Imprimante,HP,Comptabilité,2024-04-29
+EQ0279,Téléphone IP,Yealink,Secrétariat,2022-08-27
+EQ0280,Téléphone IP,Yealink,Comptabilité,2023-05-08
+EQ0281,PC,HP,Secrétariat,2018-09-24
+EQ0282,PC,Lenovo,Direction,2025-03-23
+EQ0283,PC,Lenovo,Ressources Humaines,2021-10-23
+EQ0284,PC,HP,Direction,2019-04-27
+EQ0285,Imprimante,Canon,Comptabilité,2024-11-26
+EQ0286,PC,Dell,Commercial,2024-03-27
+EQ0287,PC,Dell,Secrétariat,2018-06-14
+EQ0288,PC,HP,Direction,2019-08-22
+EQ0289,Imprimante,Canon,Direction,2018-02-18
+EQ0290,PC,Dell,Production,2020-04-19
+EQ0291,Téléphone IP,Cisco,Ressources Humaines,2018-11-06
+EQ0292,PC,Dell,Comptabilité,2024-01-10
+EQ0293,Téléphone IP,Yealink,Direction,2022-06-08
+EQ0294,PC,Lenovo,Ressources Humaines,2026-04-27
+EQ0295,TÉLÉPHONE IP,Cisco,Comptabilité,2024-05-12
+EQ0296,Téléphone IP,Cisco,Comptabilité,2023-03-11
+EQ0297,TÉLÉPHONE IP,Grandstream,,2022-04-28
+EQ0298,Téléphone IP,Grandstream,Commercial,2018-06-18
+EQ0299,Routeur,MikroTik,Comptabilité,2018-08-06
+EQ0300,Imprimante,Canon,Commercial,2023-03-26
+EQ0190,PC,Dell,Qualité,2018-02-08
+EQ0124,PC,Lenovo,Qualité,2019-01-07
+EQ0186,Switch,TP-Link,Secrétariat,2022-12-29
+EQ0214,Téléphone IP,Yealink,Commercial,2020-05-30
+EQ0107,PC,Lenovo,Ressources Humaines,2018-01-25
+EQ0128,pc,Dell,Direction,2018-09-29
+EQ0177,PC,Lenovo,Qualité,2021-08-06
+EQ0074,PC,HP,Logistique,2018-10-22

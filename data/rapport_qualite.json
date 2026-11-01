@@ -1,0 +1,13 @@
+{
+  "equipements_lignes_brutes": 308,
+  "equipements_doublons_supprimes": 8,
+  "equipements_type_inconnu": 0,
+  "equipements_service_manquant": 12,
+  "equipements_lignes_propres": 300,
+  "tickets_lignes_brutes": 852,
+  "tickets_doublons_supprimes": 15,
+  "tickets_date_creation_invalide": 6,
+  "tickets_resolution_avant_creation": 10,
+  "tickets_equipement_inconnu": 0,
+  "tickets_lignes_propres": 831
+}
